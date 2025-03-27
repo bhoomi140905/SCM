@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main(){
-printf("Hello World");
-sum = a+b;
+
+
+  printf("Hello World");
+
 return 0;
 }
